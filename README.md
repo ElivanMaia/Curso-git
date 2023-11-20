@@ -1,2 +1,2 @@
 # Curso-git
-Curso de Git
+Curso de Git and Github
